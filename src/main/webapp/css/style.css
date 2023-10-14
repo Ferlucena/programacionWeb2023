@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #C6CBEF;
+}
+
+.container{
+    background-color: #8B8BFA;
+}
+
+button.enviar{
+    background-color: #C6CBEF !important;
+
+}
+
+button.borrar{
+    background-color: #ae390e !important;
+}
